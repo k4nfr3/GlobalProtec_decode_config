@@ -1,5 +1,5 @@
 # GlobalProtec_decode_config
-Powershell script to decrypt local configuration received from portal
+Powershell script to decrypt local configuration received from Palo Alto Networks Global Protect portal
 
 Acknowledgement Gloablunprotect project : https://github.com/rotarydrone/GlobalUnProtect/
 
